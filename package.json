@@ -1,0 +1,16 @@
+{
+  "name": "squareup",
+  "version": "1.0.0",
+  "description": "Making square up API integration easy by bringing everything at one place",
+  "main": "index.js",
+  "keywords": [
+    "squareup",
+    "squareup documentation"
+  ],
+  "author": "Meghna gogna",
+  "license": "ISC",
+  "dependencies": {
+    "joi": "^10.4.1",
+    "request": "^2.81.0"
+  }
+}
